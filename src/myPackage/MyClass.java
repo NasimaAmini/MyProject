@@ -20,6 +20,7 @@ public class MyClass {
 		
 		System.out.println(list);
 		
+
 	}
 		public static void sum() {
 			
@@ -31,4 +32,5 @@ public class MyClass {
 
 	
 }
+
 
