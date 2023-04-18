@@ -24,13 +24,11 @@ public class MyClass {
 		public static void sum() {
 			
 		System.out.println(2+3);
-
-}
 		
+		System.out.println(2+3);
 
-public static void sum2() {
+}
+
 	
-System.out.println(2+3);
+}
 
-}
-}
