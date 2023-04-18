@@ -26,4 +26,11 @@ public class MyClass {
 		System.out.println(2+3);
 
 }
+		
+
+public static void sum2() {
+	
+System.out.println(2+3);
+
+}
 }
