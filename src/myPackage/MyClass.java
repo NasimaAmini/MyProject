@@ -19,6 +19,11 @@ public class MyClass {
 		
 		
 		System.out.println(list);
+		
+	}
+		public static void sum() {
+			
+		System.out.println(2+3);
 
 }
 }
