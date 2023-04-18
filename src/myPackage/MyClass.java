@@ -16,6 +16,9 @@ public class MyClass {
 		System.out.println(employees);
 		
 		ArrayList<Map.Entry<String, Integer>> list = new ArrayList<>();
+		
+		
+		System.out.println(list);
 
 }
 }
