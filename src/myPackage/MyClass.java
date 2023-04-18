@@ -20,7 +20,17 @@ public class MyClass {
 		
 		System.out.println(list);
 		
-		// mmmmmmmmmmmmmmmmmm
+
+	}
+		public static void sum() {
+			
+		System.out.println(2+3);
+		
+		System.out.println(2+3);
 
 }
+
+	
 }
+
+
