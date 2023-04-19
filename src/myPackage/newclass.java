@@ -5,6 +5,8 @@ public class newclass {
 		// comment c1
 		// c3
 		
+		// c5
+		
 		
 	}
 
